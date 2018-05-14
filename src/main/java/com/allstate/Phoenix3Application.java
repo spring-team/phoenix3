@@ -1,3 +1,5 @@
+// Life is psychologically difficult for everybody.
+
 // You are the delta in what you do, not the things you did in the past
 
 /*
